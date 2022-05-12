@@ -13,15 +13,16 @@ body {
 }
 
 
+
+
 .base {
   background-color: #040509;
   color: #CFC2B1;
   padding: 50px;
   overflow: hidden;
-  position: absolute;
-  text-align: center;
-  width: 94%;
 
+  text-align: center;
+  
 }
 
 
